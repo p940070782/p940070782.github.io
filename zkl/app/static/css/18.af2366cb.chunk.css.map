@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:/wuhan1906/react-cli/src/scripts/views/guide/index.scss"],"names":[],"mappings":"AAEA,wBACI,WACA,WAAW,CACd,WAGG,kBACA,YACA,QAAQ,CAAA","file":"18.af2366cb.chunk.css","sourcesContent":["\r\n\r\n.guide, #my-guide, .g-img{\r\n    width:100%;\r\n    height:100%;\r\n}\r\n\r\n.entry-btn{\r\n    position: absolute;\r\n    bottom:50px;\r\n    left:50%;\r\n}"]}

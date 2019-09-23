@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:/wuhan1906/react-cli/src/scripts/components/listItem/index.scss"],"names":[],"mappings":"AAAA,OACI,WACA,WAAW,CACd,QAGG,iBACA,aAAc,CAAA","file":"15.7320709a.chunk.css","sourcesContent":[".l-img{\r\n    width:100%;\r\n    height:4rem;\r\n}\r\n\r\n.l-text{\r\n    font-size: .38rem;\r\n    color:deeppink;\r\n}\r\n\r\n"]}
